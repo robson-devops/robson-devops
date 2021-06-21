@@ -1,6 +1,6 @@
 ### Olá... 👋
 
-- 🔭 Atualmente estou trabahando como consultor Devops.
+- 🔭 Atualmente estou trabalhando como consultor Devops.
 - 🌱 Atualmente estou estudando Python.
 
 <!--
