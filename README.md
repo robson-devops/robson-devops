@@ -1,6 +1,8 @@
-### Hi there 👋
+### Olá... 👋
 
-- 🔭 I’m currently working on ..
+- 🔭 Atualmente estou trabahando como consultor Devops.
+- 🌱 Atualmente estou estudando Python.
+
 <!--
 **robson-devops/robson-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
