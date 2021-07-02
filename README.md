@@ -29,7 +29,7 @@ In this moments, I’m currently learning Python and Go Lang.
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-ferreira-154121163/)](https://www.linkedin.com/in/robson-ferreira-154121163/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/robsonferreira.82/)](https://www.instagram.com/robsonferreira.82) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/isadorastan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-ferreira-154121163/)](https://www.linkedin.com/in/robson-ferreira-154121163/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/robsonferreira.82/)](https://www.instagram.com/robsonferreira.82)
 
 
 
