@@ -17,7 +17,7 @@ I’m currently working with Devops consultant.
 In this moments, I’m currently learning Python and Go Lang.
   <br/>
   <p>
- <h3 align="center">Skils table:</h3>
+ <h3 align="center">Skill table:</h3>
   
 |CLOUD PROVIDER|OPERATIONAL SYSTEM|VERSION CONTROL SYSTEM|INFRASCODE|CONFIGURATION MANAGER
 |:---------:|:-------------:|:-------------------:|:-------------------:|:-------------------:
