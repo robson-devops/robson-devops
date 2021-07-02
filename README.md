@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/robson-devops/robson-devops/master/image/hi.gif" width="30px">, I'm Robson Ferreira</h1>
 <h3 align="center">Devops consultant focused on helping companies to automate their computational processes.</h3>
-<img align="right" width="300" alt="GIF" src="https://raw.githubusercontent.com/robson-devops/robson-devops/master/image/imagecicd.png"/>
+<img align="right" width="250" alt="GIF" src="https://raw.githubusercontent.com/robson-devops/robson-devops/master/image/imagecicd.png"/>
 <br>
 
 <p>
