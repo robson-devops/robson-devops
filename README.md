@@ -11,7 +11,7 @@ Sou de São Paulo, Brasil.
 Pós-graduado em MBA Devops Engineering Integration Architecture pela Faculdade @fiap.
   <br/>
 <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist-type-5_1f468-1f3fe-200d-1f4bb.png"/>
-Atualmente trabalho como Consultor DEvops.
+Atualmente trabalho como Consultor Devops.
   <br/>
   <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/books_1f4da.png"/>
 Nesse momento estou aprendendo Python e Kubernetes.
