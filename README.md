@@ -1,4 +1,4 @@
-Sistema Operacional | Gestor de configuração | Infrascode | Cloud | Contêiner | Scripts | Monitoração 
+<center>Sistema Operacional | Gestor de configuração | Infrascode | Cloud | Contêiner | Scripts | Monitoração</center> 
 <p>
 Rede social 👇🏼
 
