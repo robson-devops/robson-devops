@@ -1,6 +1,4 @@
 <h1 align="center">Robson Ferreira</h1>
-<h3 align="center">Devops Engineer.</h3>
-<br>
 
 Profissional de Tecnologia, focado em ajudar as empresas a automatizar seus recursos computacionais. 
 <p>
