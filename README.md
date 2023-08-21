@@ -1,4 +1,4 @@
-Profissional de Tecnologia, focado em ajudar as empresas a automatizar seus recursos computacionais. 
+Sistema Operacional | Gestor de configuração | Infrascode | Cloud | Contêiner | Scripts | Monitoração 
 <p>
 Rede social 👇🏼
 
