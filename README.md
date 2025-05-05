@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFr2zBCopwxBQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732231412452?e=1737590400&v=beta&t=iLNgYbw8Gpnxw8SDwqxzSqtQDn81l-hSAzM_g2Mj0Lk">
 <p>
 <img alt="Terraform"  src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img alt="GCP"        src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white"/>
